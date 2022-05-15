@@ -1,0 +1,84 @@
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+
+.navbar 
+{
+	opacity: 0.8;
+	border-bottom: 1px solid rgba(255, 230, 0, 0.619);
+}
+
+.nav-item:hover {
+	color: rgba(255, 230, 0, 0.619);
+}
+
+.jumbotron 
+{
+	padding-top: 100px;
+}
+
+.fa-ellipsis-v
+{
+	color: rgba(255, 230, 0, 0.619);
+}
+
+.container.a
+{
+	color:rgba(255, 230, 0, 0.619);
+}
+
+main
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+main img
+{
+	width: 100%;
+	height: auto;	
+}
+
+main p i
+{
+	font-size: 0.8rem;
+}
+
+.card img 
+{
+	height: 30rem;
+	width: auto;
+}
+
+.aksaray-jumbotron
+{
+	background-image: url(img/aksaray_heykel.jpg);
+	background-size: cover;
+	background-position: 50% 30%;
+}
+
+.mirasimiz-jumbotron
+{
+	background-image: url(img/mirasimiz_ıhlaravadisi.jpg);
+	background-size: cover;
+	background-position: 50% 40%;
+}
+
+.medrese-jumbotron
+{
+	background-image: url(img/karaca_karaca.jpg);
+	background-size: cover;
+	background-position: 10% 70%;
+}
+
+.selime-jumbotron
+{
+	background-image: url(img/selimex.jpg);
+	background-size: cover;
+	background-position: 10% 70%;
+}
+
+.ulucami-jumbotron
+{
+	background-image: url(img/aksaray_ulucami.jpg);
+	background-size: cover;
+	background-position: 10% 70%;
+}
